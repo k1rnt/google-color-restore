@@ -1,6 +1,13 @@
 # google-color-restore
 Google検索結果の色が何故か変わってたので戻すやつ
 
+## どんなやつか
+|![Before](/doc/Before.png) |![After](/doc/After.png) |
+|---|---|
+|Before|After|
+
+こうするやつ
+
 ## required
 https://www.tampermonkey.net/
 
